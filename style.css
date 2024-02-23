@@ -53,25 +53,7 @@ input{
 .button:hover{
     transform: scale(1.05);
 }
-/* .or{
-    background-color: rgb(255, 255, 255);
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    height: .3px;
-    width: 100%;
-    margin-bottom: 20px;
-    
-}
-.or::before{
-    content: 'or';
-    background-color: ;
-    background:rgba(150, 150, 150, 0.667);
-    padding:0px  20px;
-   
-    
-}
- */
+
 
 .find{
     border: 0.1px solid rgb(172, 169, 169);
