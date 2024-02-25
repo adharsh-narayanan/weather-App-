@@ -29,6 +29,8 @@ function find(){
         })
         
     } catch (error) {
+
+        alert(`geolocation is not working`)
         
     }
     
